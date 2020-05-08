@@ -1,3 +1,4 @@
+//deneme dosyasýdýr
 #include <stdio.h>
 
 int main(void) {
